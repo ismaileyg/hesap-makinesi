@@ -1,4 +1,4 @@
-🧮 Hesap Makinesi Pro (Tkinter)
+🧮 Hesap Makinesi (Tkinter)
 
 Python ve Tkinter kullanılarak geliştirilmiş iOS tarzı modern bir hesap makinesi uygulamasıdır.
 Basit ve gelişmiş modları, geçmiş kayıt sistemi ve modern arayüz tasarımı içerir.
@@ -21,7 +21,7 @@ math modülü
 datetime modülü
 🚀 Kurulum ve Çalıştırma
 1. Projeyi indir
-git clone https://github.com/kullaniciadi/hesap-makinesi-pro.git
+git clone https://github.com/ismaileyg/hesap-makinesi-pro.git
 2. Klasöre gir
 cd hesap-makinesi-pro
 3. Uygulamayı çalıştır
